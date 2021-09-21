@@ -1,6 +1,6 @@
-# spotify
+# CLONE SPOTFY FLUTTER
 
-A new Flutter project.
+Flutter study project, cloning a house from Spotfy's app.
 
 ## Getting Started
 
